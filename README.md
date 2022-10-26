@@ -4,7 +4,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Table of contents
 About
-Portfolio Projects
-Tableau Vizzes
-Certificates
-Contacts
+1. Portfolio Projects
+2. Tableau Vizzes
+3. Certificates
+4. Learn
