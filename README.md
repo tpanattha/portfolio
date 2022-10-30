@@ -7,5 +7,5 @@ About
 1. Portfolio Projects
 2. Tableau Vizzes
 3. Certificates
--- SQL on DataCamp https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql
+-- Data Analyst in SQL on DataCamp https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql
 4. Learn
