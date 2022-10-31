@@ -12,7 +12,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Tableau visualization
 You can click a link below by topic or go to [My Tableau Public account](https://public.tableau.com/app/profile/panattha.chumklang)
 - [Sales Dashboard](https://public.tableau.com/views/SalesDashboard_16645096234750/SelesDashboad?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
-- [Netflix Dashboad EDA](https://public.tableau.com/views/NETFLIXVISUALIZATIONEDA/NetflixDashboad?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Netflix Dashboad EDA](https://public.tableau.com/shared/QPDMJX95W?:display_count=n&:origin=viz_share_link)
 
 
 ## Certificates
