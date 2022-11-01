@@ -9,11 +9,26 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### My songs listened on Spotify
+- **Description:** Created an analytical dashboard to Looking on the songs I listened in Spotify on 2022.
+- **Skills:** Designing analytical dashboard.
+- **Tools:** Tableau and Excel.
+- **Dashboard:** [My song listened on Spotify](https://public.tableau.com/views/MYSONGLISTENINGDASHBOADON2022/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### Sales analysis
+- **Description:** Explore a sales dataset and generate various analytics and insights from customer' past purchase behavior
+- **Skills:** designing analytical dashboard
+- **Tools:** SQL (Aggregate function, Sub Query, CTEs, SQL XML path function) and Tableau
+- **Dashboard:** [Sales analysis](https://public.tableau.com/views/SalesDashboard_16645096234750/SelesDashboad?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
+
+### Netflix visualization EDA
+- **Description:** Analysis on Netflix movies, TV show and reviews
+- **Skills:** Exploratory data analysis, Data cleaning
+- **Tools:** Pyhton (Numpy, Pandas, Matplotlip, Plotly) and Tableau
+- **Dashboard:** [Netflix visualzation EDA](https://public.tableau.com/views/NETFLIXMOVIESANDTVSHOWON1920-2020DASHBOARD/NetflixDash?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ### Tableau visualization
-You can click a link below by topic or go to [My Tableau Public account](https://public.tableau.com/app/profile/panattha.chumklang)
-- [Sales Dashboard](https://public.tableau.com/views/SalesDashboard_16645096234750/SelesDashboad?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
-- [Netflix Dashboad EDA](https://public.tableau.com/views/NETFLIXMOVIESANDTVSHOWON1920-2020DASHBOARD/NetflixDash?:language=en-US&:display_count=n&:origin=viz_share_link)
-- [My listening on Spotify Dashboad](https://public.tableau.com/views/MYSONGLISTENINGDASHBOADON2022/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[My Tableau Public account](https://public.tableau.com/app/profile/panattha.chumklang)
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have.
