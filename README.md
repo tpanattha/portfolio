@@ -25,10 +25,11 @@ In this section I will list data analytics projects briefly describing the techn
 - **Description:** Analysis on Netflix movies, TV show and reviews
 - **Skills:** Exploratory data analysis, Data cleaning
 - **Tools:** Pyhton (Numpy, Pandas, Matplotlip, Plotly) and Tableau
+- **Code:** [netflix_visaulization_eda](project_file/netflix_visaulization_eda.ipynb)
 - **Dashboard:** [Netflix visualzation EDA](https://public.tableau.com/views/NETFLIXMOVIESANDTVSHOWON1920-2020DASHBOARD/NetflixDash?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Tableau visualization
-[My Tableau Public account](https://public.tableau.com/app/profile/panattha.chumklang)
+- [My Tableau Public account](https://public.tableau.com/app/profile/panattha.chumklang)
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have.
