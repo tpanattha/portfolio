@@ -12,7 +12,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### EDA on Video Games Sales data
 - **Description:** Analysis on Video Games Sales and Visaulization in Python
 - **Skills:** Exploratory data analysis, Visaulization
-- **Tools:** Pyhton (Numpy, Pandas, Matplotlip, Plotly)
+- **Tools:** Python (Numpy, Pandas, Matplotlip, Plotly)
 - **Code:** [eda-on-video-games-sales-data](project_file/eda-on-video-games-sales-data.xpynb)
 
 ### My songs listened on Spotify
@@ -29,8 +29,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Netflix visualization EDA
 - **Description:** Analysis on Netflix movies, TV show and reviews
-- **Skills:** Exploratory data analysis, Data cleaning
-- **Tools:** Pyhton (Numpy, Pandas, Matplotlip, Plotly) and Tableau
+- **Skills:** Exploratory data analysis, Data cleaning, Visaulization
+- **Tools:** Python (Numpy, Pandas, Matplotlip, Plotly) and Tableau
 - **Code:** [netflix_visaulization_eda](project_file/netflix_visaulization_eda.ipynb)
 - **Dashboard:** [Netflix visualzation EDA](https://public.tableau.com/views/NETFLIXMOVIESANDTVSHOWON1920-2020DASHBOARD/NetflixDash?:language=en-US&:display_count=n&:origin=viz_share_link)
 
