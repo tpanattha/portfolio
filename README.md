@@ -9,6 +9,12 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### EDA on Video Games Sales data
+- **Description:** Analysis on Video Games Sales and Visaulization in Python
+- **Skills:** Exploratory data analysis, Visaulization
+- **Tools:** Pyhton (Numpy, Pandas, Matplotlip, Plotly)
+- **Code:** [eda-on-video-games-sales-data](project_file/eda-on-video-games-sales-data.xpynb)
+
 ### My songs listened on Spotify
 - **Description:** Created an analytical dashboard to Looking on the songs I listened in Spotify on 2022.
 - **Skills:** Designing analytical dashboard.
@@ -32,7 +38,8 @@ In this section I will list data analytics projects briefly describing the techn
 - [My Tableau Public account](https://public.tableau.com/app/profile/panattha.chumklang)
 
 ## Certificates
-I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have.
+I believe that the best way to showcase skills is by doing and sharing my knowledge but sometimes certificates appear to be as an indirect result, So here is a list of the ones I have.
+- [Google Cloud Platform Bid Data and Machine Learning Funamentals](https://drive.google.com/file/d/1JJImsw296pLyXIM85tvLJkGo02oOwGJ5/view?usp=sharing) (Nov 2022) (TRAINOCATE)
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/UAJ25NW8M3P5) (Nov 2022) (Coursera)
 - [Python-Programming-Basic](https://drive.google.com/file/d/1O46hqbuil7fSvo93yfb-rhRG4JSHBwd1/view?usp=share_link) (Nov 2022) (HACKaTHAILAND)
 - [Introduction to SQL](https://drive.google.com/file/d/14wufEG1gil0ZzoJL6RjT9CuHSNZP5U_2/view?usp=share_link) (Oct 2022) (DataCamp)
