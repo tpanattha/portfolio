@@ -7,7 +7,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Certificates](#certificates)
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section I will list data analytics projects cases study.
 
 ### EDA on Video Games Sales data
 - **Description:** Analysis on Video Games Sales and Visaulization in Python
