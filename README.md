@@ -45,4 +45,5 @@ I believe that the best way to showcase skills is by doing and sharing my knowle
 - [Introduction to SQL](https://drive.google.com/file/d/14wufEG1gil0ZzoJL6RjT9CuHSNZP5U_2/view?usp=share_link) (Oct 2022) (DataCamp)
 - [Citical Thinking for Besiness](https://drive.google.com/file/d/1TK8j5x_fOKWIgsCfpPC3q2YBBQYw7Mk9/view?usp=sharing) (Jul 2022) (CHULA MOOC)
 - [Data+AI for Marketing Communication in the Next Era](https://drive.google.com/file/d/1n7pQri23AUILXCg22qsNLdd3aCOBNzX_/view?usp=sharing) (Nov 2021) (CIC)
+- [Professional Data Analyst](https://api.badgr.io/public/assertions/CwiKsmjbQLWiyUiXo4Irew?identity__email=panattha.chu%40gmail.com) (Sep 2021) (DataRockie School)
 - [Understanding Data Engineering](https://drive.google.com/file/d/12HUmC-MIS734aaax039_YvDZkM14YoW-/view?usp=sharing) (May 2020) (DataCamp)
