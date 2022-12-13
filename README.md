@@ -39,7 +39,8 @@ In this section I will list data analytics projects cases study.
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing my knowledge but sometimes certificates appear to be as an indirect result, So here is a list of the ones I have.
-- [Google Cloud Platform Bid Data and Machine Learning Funamentals](https://drive.google.com/file/d/1JJImsw296pLyXIM85tvLJkGo02oOwGJ5/view?usp=sharing) (Nov 2022) (TRAINOCATE)
+- [AI on Cloud](https://drive.google.com/file/d/1F5Gb48il22TIsziwDDII8DFlqWNOt9py/view?usp=sharing) (Nov 2022) (depa, AIT, Microsoft, SCB Academy)
+- [Google Cloud Platform Big Data and Machine Learning Funamentals](https://drive.google.com/file/d/1JJImsw296pLyXIM85tvLJkGo02oOwGJ5/view?usp=sharing) (Nov 2022) (TRAINOCATE)
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/UAJ25NW8M3P5) (Nov 2022) (Coursera)
 - [Python-Programming-Basic](https://drive.google.com/file/d/1O46hqbuil7fSvo93yfb-rhRG4JSHBwd1/view?usp=share_link) (Nov 2022) (HACKaTHAILAND)
 - [Introduction to SQL](https://drive.google.com/file/d/14wufEG1gil0ZzoJL6RjT9CuHSNZP5U_2/view?usp=share_link) (Oct 2022) (DataCamp)
