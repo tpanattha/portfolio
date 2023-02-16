@@ -41,7 +41,7 @@ In this section I will list data analytics projects cases study.
 I believe that the best way to showcase skills is by doing and sharing my knowledge but sometimes certificates appear to be as an indirect result, So here is a list of the ones I have.
 - [Data Analytics & Data Visualization with Google Data Studio Bootcamp](https://drive.google.com/file/d/1JLd3RbzCC6tbtnmXtrRWdUFX-I1k1O9W/view?usp=drivesdk) (Feb 2023) (depa, POWER CLASS)
 - [Google Cloud Fundamentals : Big Data and Machine Learning](https://drive.google.com/file/d/1eLzJLrPwHXNVf-ToOK0jN8EbI3KzWeWF/view?usp=drivesdk) (Jan 2023) (Cloud Ace)
-- [Google Cloud Fundamentals Core Infrastructure](https://drive.google.com/file/d/1GwamKy248lw5yviWSyNZ601tp0aGo_I9/view?usp=drivesdk) (Dec 2022) (Cloud Ace)
+- [Google Cloud Fundamentals : Core Infrastructure](https://drive.google.com/file/d/1GwamKy248lw5yviWSyNZ601tp0aGo_I9/view?usp=drivesdk) (Dec 2022) (Cloud Ace)
 - [AI on Cloud](https://drive.google.com/file/d/1F5Gb48il22TIsziwDDII8DFlqWNOt9py/view?usp=sharing) (Nov 2022) (depa, AIT, Microsoft, SCB Academy)
 - [Google Cloud Platform Big Data and Machine Learning Funamentals](https://drive.google.com/file/d/1JJImsw296pLyXIM85tvLJkGo02oOwGJ5/view?usp=sharing) (Nov 2022) (TRAINOCATE)
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/UAJ25NW8M3P5) (Nov 2022) (Coursera)
