@@ -15,12 +15,6 @@ In this section I will list data analytics projects cases study.
 - **Tools:** Python (Numpy, Pandas, Matplotlip, Plotly)
 - **Code:** [eda-on-video-games-sales-data](project_file/eda-on-video-games-sales-data.xpynb)
 
-### My songs listened on Spotify
-- **Description:** Created an analytical dashboard to Looking on the songs I listened in Spotify on 2022.
-- **Skills:** Designing analytical dashboard.
-- **Tools:** Tableau and Excel.
-- **Dashboard:** [My song listened on Spotify](https://public.tableau.com/views/MYSONGLISTENINGDASHBOADON2022/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
 ### Sales analysis
 - **Description:** Explore a sales dataset and generate various analytics and insights from customer' past purchase behavior
 - **Skills:** designing analytical dashboard
